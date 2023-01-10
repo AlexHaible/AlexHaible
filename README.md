@@ -2,9 +2,9 @@
 
 And welcome to my GitHub profile.
 
-I'm currently working on [SpotBoostr](https://spotboostr.com) - A product video generation subscription service; Got a webshop that needs 15 second video spots of products? This service can generate 'em!
+I'm currently working at [1260](https://1260.dk)
 
-The tools of my trade would be PHP, Laravel, Tailwind, Livewire, Alpine.js, Wordpress, and some knowledge of the Shopify platform, particularly their Liquid templating.
+The tools of my trade would be PHP, Laravel, Tailwind, Livewire, Alpine.js, Vue, Wordpress, and some knowledge of the Shopify platform, particularly their Liquid templating.
 
 I'm currently learning all I can about Unity and related C#, by making a game with it. It's exciting stuff, and I hope it turns out great, even if I'm storing it in a private repo. ;)
 
