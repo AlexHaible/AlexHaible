@@ -10,4 +10,4 @@ I'm currently learning all I can about Unity and related C#, by making a game wi
 
 How to reach me would be by headin' on over to [my portfolio site](https://alex.quest/contact) and toss me a message via the contact form.
 
-![AlexHaible's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexhaible&count_private=true&hide=stars&theme=tokyonight)
+![AlexHaible's GitHub Stats](https://github-readme-stats-teal-alpha-44.vercel.app/api?username=alexhaible&count_private=true&hide=stars&theme=tokyonight)
